@@ -14,7 +14,7 @@
 
 ### 💜 Sobre mim
 
-Estou em **transição de carreira para a área de tecnologia** e apaixonada por construir interfaces que unem boa experiência e código bem feito. Trabalho na **Conexa Saúde** e venho me formando como desenvolvedora através do programa **Minas Programam**, onde aprendi desde versionamento com Git até a criação de aplicações web completas.
+Estou no **início da minha carreira em tecnologia** e cursando o **3º semestre de Análise e Desenvolvimento de Sistemas na FIAP**. Também participei do programa **Minas Programam**, onde aprendi desde versionamento com Git até a criação de aplicações web. Hoje trabalho na **Conexa Saúde** e sou apaixonada por construir interfaces que unem boa experiência e código bem feito.
 
 - 🌱 Atualmente aprofundando meus estudos em **React** e consumo de **APIs**
 - 💻 Construo projetos práticos para consolidar cada novo aprendizado
