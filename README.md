@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/let%C3%ADcia-almeida-70b851294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:leticiacardosodea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://locallead.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7F5AF0?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+<a href="https://lehalmeidafc0.github.io/port--letcia/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7F5AF0?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 
 </div>
 
